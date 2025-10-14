@@ -1,0 +1,11 @@
+.texto_tarea_completada {
+    color: gray;
+}
+ #listado_de_tareas{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+ }
+ .tarea_de_la_lista{
+    background-color: #FF8A19 !important;
+ }
